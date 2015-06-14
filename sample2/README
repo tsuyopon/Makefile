@@ -1,0 +1,9 @@
+# 概要
+Makefileの単純なサンプル2
+
+### 確認してほしいこと
+- gmakeを実行し、mainバイナリが生成されることを確認する
+- gmake myprint.oとするとmyprint.oが生成されることを確認する
+- gmake main.oとするとmyprint.oが生成されることを確認する
+- Makefile中の変数展開などのルールを確認しておくこと
+
